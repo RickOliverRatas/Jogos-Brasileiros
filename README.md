@@ -1,1 +1,1 @@
-Imersão Dev com Gemini
+Imersão Dev com Google Gemini
